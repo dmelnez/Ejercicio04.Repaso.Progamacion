@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\bin\Debug\net6.0\Ejercicio04.Repaso.Progamacion.exe
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\bin\Debug\net6.0\Ejercicio04.Repaso.Progamacion.deps.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\bin\Debug\net6.0\Ejercicio04.Repaso.Progamacion.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\bin\Debug\net6.0\Ejercicio04.Repaso.Progamacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\bin\Debug\net6.0\Ejercicio04.Repaso.Progamacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\refint\Ejercicio04.Repaso.Progamacion.dll
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.pdb
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\Ejercicio04.Repaso.Progamacion.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04.Repaso.Progamacion\Ejercicio04.Repaso.Progamacion\obj\Debug\net6.0\ref\Ejercicio04.Repaso.Progamacion.dll
